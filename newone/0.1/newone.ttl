@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-15T09:53:11.477Z"^^xsd:dateTime;
   dct:title "NewONe"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://ontologies.metaphacts.com/newone/>;
   rdfs:label "NewONe"@en;
   owl:versionInfo "0.1" .
