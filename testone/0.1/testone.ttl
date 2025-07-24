@@ -14,7 +14,7 @@
   dct:creator "admin";
   dct:modified "2025-07-24T07:55:25.229Z"^^xsd:dateTime;
   dct:title "TestONe"@en;
-  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/draft>;
+  <http://purl.org/ontology/bibo/status> <http://purl.org/spar/pso/published>;
   vaem:namespace <https://ontologies.metaphacts.com/testone/>;
   rdfs:label "TestONe"@en;
   owl:versionInfo "0.1" .
